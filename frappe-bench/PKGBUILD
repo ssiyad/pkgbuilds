@@ -21,7 +21,7 @@ depends=(
     "nodejs"
     "python"
     "python-click"
-    "python-crontab"
+    "python-python-crontab"
     "python-gitpython"
     "python-jinja"
     "python-requests"
